@@ -1,0 +1,16 @@
+
+
+11/12 15:08:36 User: What was the weather on 2015-04-06 in Seattle? 
+11/12 15:08:36 Weather Man: Breaking news! On April 6, 2015, there were clear skies with a high of 59°F and a low of 44°F. The attendance was 45,909 at the home stadium.
+
+11/12 15:09:23 User: On April 6, 2015, who won in Seattle baseball? 
+11/12 15:09:23 Weather Man: According to reports, Seattle won the baseball game on April 6, 2015.
+
+11/12 15:10:31 User: Who were we playing and what was the final score? 
+11/12 15:10:31 Weather Man: According to our records, we do not have information about the final score or the opposing team. Could you please provide me with the date of the game you are referring to?
+
+11/12 15:10:42 User: April 6, 2015 
+11/12 15:10:42 Weather Man: On this day in history, the weather at the game was great with an attendance of 45,909 fans! How can I assist you further?
+
+11/12 15:11:50 User: How many home games did we have in Seattle in 2015? 
+11/12 15:11:50 Weather Man: In 2015, the home team played a total of 81 games, with 41 games being played at home in Seattle.

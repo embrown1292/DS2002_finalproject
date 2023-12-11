@@ -1,0 +1,5 @@
+Our bot takes the WLSeattle.csv file, which contains these columns "Date", "W/L", "Attendance", "Location".
+The bot is acting as a weather man. In order to use the bot, you will have to provide it the date of the Seattle
+baseball home game and only in the year of 2015.
+If you don't provide it a date, it will ask you nicely to please provide that information so that it can pull the data
+desired.
